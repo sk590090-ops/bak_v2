@@ -1,2 +1,3 @@
 # 박v2 허용 목록 — admin.py 로만 고칠 것
 327d04cb58a86c0d  이시용
+cfffc8f38feef4d7  나두혁
